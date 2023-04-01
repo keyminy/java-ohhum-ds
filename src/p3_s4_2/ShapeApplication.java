@@ -1,4 +1,4 @@
-package s4_2;
+package p3_s4_2;
 
 import java.util.Arrays;
 import java.util.Scanner;

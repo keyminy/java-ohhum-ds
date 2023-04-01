@@ -1,4 +1,4 @@
-package s4_2;
+package p3_s4_2;
 
 public abstract class Shape implements Comparable<Object>{
 	public String shapeName;

@@ -1,4 +1,4 @@
-package s5_generic;
+package p3_s5_generic;
 
 import java.util.Arrays;
 
